@@ -12,3 +12,18 @@ Command Injection attack is performed by using arbitrary commands(The command wh
 
 1. Changing the security level of DVWA to low level of security. 
 
+![image](https://user-images.githubusercontent.com/60937657/194223462-0e43d07a-d6dd-4291-8777-f9c30ff0c9e2.png)
+
+![image](https://user-images.githubusercontent.com/60937657/194223357-3a83b501-8961-4646-b043-efc1e4060faf.png)
+
+2. Find the IP address using terminal. 
+
+```bash
+  ifconfig 
+```
+
+3. Enter IP address to DVWA.  
+
+![image](https://user-images.githubusercontent.com/60937657/194224867-2863f530-e203-4c53-92bf-344421fb8116.png)
+
+
