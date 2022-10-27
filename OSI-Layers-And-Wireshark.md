@@ -44,6 +44,8 @@ It is a Network Protocol Analyzer which capture 7 layers.
 
 ## How does it do ?
 
+![image](https://user-images.githubusercontent.com/60937657/198268507-6f843dce-ef26-4b98-bc7f-3903c7377578.png)
+
 It monitor all the system connected to network through wifi or routers for example its like a security guard.
 
 Wireshark file extension is .pcap or .pcapng
