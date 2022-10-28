@@ -26,7 +26,7 @@ TCP => Transmission Control Protocol
 
 **Which communication is faster UDP vs TCP ?
 
-UDP - faster | Because we are nto waiting for confirmation 
+UDP - faster | Because we are nto waiting for confirmation.
 
 ## Network Layer
  
