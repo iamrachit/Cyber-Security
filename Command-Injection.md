@@ -54,7 +54,7 @@ nc -vv -l -p 8080
 
 ![image](https://user-images.githubusercontent.com/60937657/194373887-5eb2d874-5036-4779-b0e8-a3bd5dbcdf2e.png)
 
-**Note** Netcat service will always be hosted in bin folder of linux as per the architecture
+**Note** Netcat service will always be hosted in bin folder of linux as per the architecture.
 
 6. Using a command in which we are going to use IP of our OS to fire on website by which we are going to get a connection in out terminal. 
 
