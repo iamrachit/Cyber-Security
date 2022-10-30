@@ -6,11 +6,18 @@ It is a code injection technique that might destroy database and it is one of th
 
 ## Setup for SQL Injection 
 
-**NOTE** We will use this repository for setting up - ``` https://github.com/sakshamchoudhary/sql.git ```
+**NOTE** We will use this repository for setting up - 
+``` 
+https://github.com/sakshamchoudhary/sql.git 
+```
 
 1. Firstly we will install XAMPP 
 
 While intalling the xampp make sure it is not preinstalled and if that condition is fulfilled the we will got to below given link to intall the xampp. 
 
-``` https://sourceforge.net/projects/xampp/ ```
-``` https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.19/xampp-win32-5.5.19-0-VC11-installer.exe/download ```
+``` 
+https://sourceforge.net/projects/xampp/
+```
+``` 
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.19/xampp-win32-5.5.19-0-VC11-installer.exe/download
+```
