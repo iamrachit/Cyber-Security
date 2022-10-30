@@ -4,4 +4,12 @@ It is a code injection technique that might destroy database and it is one of th
 
 ![image](https://user-images.githubusercontent.com/60937657/198902914-580df9a4-f051-4a21-a4ed-aeef2b2e94f7.png)
 
+## Setup for SQL Injection 
 
+**NOTE** We will use this repository for setting up - ``` https://github.com/sakshamchoudhary/sql.git ```
+
+1. Firstly we will install XAMPP 
+
+While intalling the xampp make sure it is not preinstalled and if that condition is fulfilled the we will got to below given link to intall the xampp. 
+
+``` https://sourceforge.net/projects/xampp/ ```
