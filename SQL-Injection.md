@@ -21,3 +21,23 @@ https://sourceforge.net/projects/xampp/
 ``` 
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.19/xampp-win32-5.5.19-0-VC11-installer.exe/download
 ```
+
+2. Understading the SQL and Major commands that can be used 
+
+SQL Stands for Structured Query Language, and the major command used in performing SQL Injection are given below;
+
+Select : Used to select something or to retirieve the data form database 
+
+Insert : Insert the value to database 
+
+Update : To modify the data or to update the existing value 
+
+Delete : Delete the value 
+
+Order By : for sorting the columns
+
+Schema : Schematic (Structure of database)
+
+' : Sql value/commands which we want to check with database 
+
+? : Query 
