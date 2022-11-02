@@ -45,7 +45,7 @@ Enter new password and confirm new password again and then click on the change b
 
 5. Paste that URL to html folder where the form related code is saved. 
 
-**note** The URL will be saved under the action variable as shown in the image below 
+**note** The URL will be saved under the action variable as shown in the image below. 
 
 ![image](https://user-images.githubusercontent.com/60937657/196028578-7986a85e-1a7f-4d68-9039-5a09ce6f967e.png)
 
