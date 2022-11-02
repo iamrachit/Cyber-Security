@@ -22,7 +22,7 @@ https://sourceforge.net/projects/xampp/
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.19/xampp-win32-5.5.19-0-VC11-installer.exe/download
 ```
 
-2. Understading the SQL and Major commands that can be used 
+2. Understading the SQL and Major commands that can be used. 
 
 SQL Stands for Structured Query Language, and the major command used in performing SQL Injection are given below;
 
