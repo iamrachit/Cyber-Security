@@ -1,6 +1,8 @@
 
 # Command Injection
 
+![image](https://user-images.githubusercontent.com/60937657/199600432-20c86df1-0b87-4137-b490-36c53d67e3cd.png)
+
 Command Injection attack is performed by using arbitrary commands(The command which helps the system to run for example the commands used to play around with the file management system).
 
 ## What can we do by using the Command Injection attack ?
