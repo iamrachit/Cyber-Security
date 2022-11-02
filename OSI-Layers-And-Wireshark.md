@@ -1,5 +1,7 @@
 # OSI Layer
 
+![image](https://user-images.githubusercontent.com/60937657/199601286-4733ffdb-8bbb-406d-ad8d-b55defd4998f.png)
+
 ## Application Layer = User Interaction 
 
 ## Presentation Layer = Data Format 
