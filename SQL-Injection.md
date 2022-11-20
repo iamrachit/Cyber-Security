@@ -26,7 +26,7 @@ For Window;
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.19/xampp-win32-5.5.19-0-VC11-installer.exe/download
 ```
 
-For Linux 
+For Linux;
 
 ```
 https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.40/
