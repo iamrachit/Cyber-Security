@@ -7,11 +7,12 @@ It is a code injection technique that might destroy database and it is one of th
 ## Setup for SQL Injection 
 
 **NOTE** We will use this repository for setting up - 
+
 ``` 
 https://github.com/sakshamchoudhary/sql.git 
 ```
 
-1. Firstly we will install XAMPP 
+**Firstly we will install XAMPP** 
 
 While intalling the xampp make sure it is not preinstalled and if that condition is fulfilled the we will got to below given link to intall the xampp. 
 
@@ -19,11 +20,19 @@ While intalling the xampp make sure it is not preinstalled and if that condition
 https://sourceforge.net/projects/xampp/
 ```
 
+For Window;
+
 ``` 
 https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.5.19/xampp-win32-5.5.19-0-VC11-installer.exe/download
 ```
 
-2. Understading the SQL and Major commands that can be used. 
+For Linux 
+
+```
+https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/5.6.40/
+```
+
+## Understading the SQL and Major commands that can be used. 
 
 SQL Stands for Structured Query Language, and the major command used in performing SQL Injection are given below;
 
@@ -42,3 +51,5 @@ Schema : Schematic (Structure of database)
 ' : Sql value/commands which we want to check with database 
 
 ? : Query 
+
+## 
