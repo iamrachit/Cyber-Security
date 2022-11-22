@@ -81,3 +81,9 @@ As a result of above query we are getting 5 and 6 as a vulnerable columns
 While cracking the data;
 We need to go throught Database -> Table -> Rows;
 
+Information Schema contain tables and columns information so to extract a table name or column name use below given command.
+Information_schema.tables -> table_name
+Information_schema.columns -> column_name
+
+
+
