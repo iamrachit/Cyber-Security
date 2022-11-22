@@ -52,4 +52,32 @@ Schema : Schematic (Structure of database)
 
 ? : Query 
 
-## Steps
+## Steps for performing SQL Injection 
+
+1. Find the vulnerable link 
+
+**inurl id= .com - can be used to find website**
+
+We have brake the page by using " ' "
+
+![image](https://user-images.githubusercontent.com/60937657/203272514-02d6327d-931e-4e8c-970b-ec3780bda1d1.png)
+
+2. Join Query by using --+
+
+**Next we will find how many number are there**
+
+3. " Order By " Used to find the number of column 
+
+![image](https://user-images.githubusercontent.com/60937657/203273611-ab5a2e1b-8266-48e9-b0a7-2fb09a182b3c.png)
+
+![image](https://user-images.githubusercontent.com/60937657/203273683-a085cb7e-1722-4250-a938-8cdc7563ff09.png)
+
+![image](https://user-images.githubusercontent.com/60937657/203292475-12cda540-ef5b-421c-be0a-861d580360d5.png)
+
+As a result of above query we are getting 5 and 6 as a vulnerable columns 
+
+![image](https://user-images.githubusercontent.com/60937657/203292614-0867c158-f3ec-4dde-b404-54ad0c19b35c.png)
+
+While cracking the data;
+We need to go throught Database -> Table -> Rows;
+
