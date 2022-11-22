@@ -52,4 +52,4 @@ Schema : Schematic (Structure of database)
 
 ? : Query 
 
-## 
+## Steps
