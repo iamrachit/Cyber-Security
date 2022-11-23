@@ -54,7 +54,7 @@ Schema : Schematic (Structure of database)
 
 ## Steps for performing SQL Injection 
 
-1. Find the vulnerable link 
+1. Find the vulnerable link.
 
 **inurl id= .com - can be used to find website**
 
