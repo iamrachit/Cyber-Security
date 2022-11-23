@@ -93,4 +93,26 @@ Information_schema.columns -> column_name**
 
 ![image](https://user-images.githubusercontent.com/60937657/203461556-45ee5eb8-0b3c-4ec5-b8d3-b73f8df2703e.png)
 
+5. Get the table name by defining table schema and limit.
 
+![image](https://user-images.githubusercontent.com/60937657/203464507-8b257cd7-b239-4699-9bb5-539f04a75226.png)
+
+![image](https://user-images.githubusercontent.com/60937657/203464545-a42c564c-202d-4615-9bd8-5385d54bd80a.png)
+
+6. Extracting the information of all the table name using group_concat() function 
+
+**While using the group_concat() function we will not use limit**
+
+![image](https://user-images.githubusercontent.com/60937657/203467470-701db281-27cb-4175-9d72-cedda86934c3.png)
+
+![image](https://user-images.githubusercontent.com/60937657/203467579-fb56a730-f788-4948-8f79-20e245173c58.png)
+
+So the tables we have received are contact_id, referes, user_agent, users
+
+7. Further more we will get the table names for a column 
+
+![image](https://user-images.githubusercontent.com/60937657/203469351-29f91809-d645-4d12-a491-dd8c20de057e.png)
+
+8. Extract all the information from the user table 
+
+![image](https://user-images.githubusercontent.com/60937657/203470003-f1bb5249-b92f-4876-aabc-25cfb5fc4ae1.png)
