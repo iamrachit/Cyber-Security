@@ -72,18 +72,20 @@ We have brake the page by using " ' "
 
 ![image](https://user-images.githubusercontent.com/60937657/203273683-a085cb7e-1722-4250-a938-8cdc7563ff09.png)
 
+Perform union of all the 6 columns.
+
 ![image](https://user-images.githubusercontent.com/60937657/203292475-12cda540-ef5b-421c-be0a-861d580360d5.png)
 
 As a result of above query we are getting 5 and 6 as a vulnerable columns 
 
 ![image](https://user-images.githubusercontent.com/60937657/203292614-0867c158-f3ec-4dde-b404-54ad0c19b35c.png)
 
-While cracking the data;
-We need to go throught Database -> Table -> Rows;
+**While cracking the data;
+We need to go throught Database -> Table -> Rows;**
 
-Information Schema contain tables and columns information so to extract a table name or column name use below given command.
+**Information Schema contain tables and columns information so to extract a table name or column name use below given command.
 Information_schema.tables -> table_name
-Information_schema.columns -> column_name
+Information_schema.columns -> column_name**
 
 4. Finding name of database and its version by using database(), version().
 
