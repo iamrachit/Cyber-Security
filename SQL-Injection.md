@@ -66,7 +66,7 @@ We have brake the page by using " ' "
 
 **Next we will find how many number are there**
 
-3. " Order By " Used to find the number of column 
+3. " Order By " Used to find the number of column. 
 
 ![image](https://user-images.githubusercontent.com/60937657/203273611-ab5a2e1b-8266-48e9-b0a7-2fb09a182b3c.png)
 
@@ -85,5 +85,10 @@ Information Schema contain tables and columns information so to extract a table 
 Information_schema.tables -> table_name
 Information_schema.columns -> column_name
 
+4. Finding name of database and its version by using database(), version().
+
+![image](https://user-images.githubusercontent.com/60937657/203461489-fcef5658-852a-45d9-9e90-7dd1fc94e5bc.png)
+
+![image](https://user-images.githubusercontent.com/60937657/203461556-45ee5eb8-0b3c-4ec5-b8d3-b73f8df2703e.png)
 
 
