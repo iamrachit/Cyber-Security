@@ -113,6 +113,6 @@ So the tables we have received are contact_id, referes, user_agent, users
 
 ![image](https://user-images.githubusercontent.com/60937657/203469351-29f91809-d645-4d12-a491-dd8c20de057e.png)
 
-8. Extract all the information from the user table 
+8. Extract all the information from the user table. 
 
 ![image](https://user-images.githubusercontent.com/60937657/203470003-f1bb5249-b92f-4876-aabc-25cfb5fc4ae1.png)
