@@ -109,7 +109,7 @@ Information_schema.columns -> column_name**
 
 So the tables we have received are contact_id, referes, user_agent, users
 
-7. Further more we will get the table names for a column 
+7. Further more we will get the table names for a column.
 
 ![image](https://user-images.githubusercontent.com/60937657/203469351-29f91809-d645-4d12-a491-dd8c20de057e.png)
 
