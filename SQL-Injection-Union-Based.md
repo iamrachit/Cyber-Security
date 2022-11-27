@@ -4,7 +4,7 @@
 
 It is a code injection technique that might destroy database and it is one of the mose common web hacking techniques. SQL injcetion is the placement of malicious code in SQL statement, via web page input. SQL incjection usually occurs when you ask a user for input, like username and instead of the name the user gives a SQL statement that you will unknowingly run on your database. 
 
-## Setup for SQL Injection 
+## Setup for SQL Injection !
 
 **NOTE** We will use this repository for setting up - 
 
