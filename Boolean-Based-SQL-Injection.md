@@ -39,6 +39,31 @@ use database_name;
 ![image](https://user-images.githubusercontent.com/60937657/205056012-e38279b4-6ec8-4583-ab36-1ada0d14642a.png)
 ![image](https://user-images.githubusercontent.com/60937657/205056125-67560c39-9657-43c0-ad65-2cbb26a9c7ed.png)
 
+5. Using substr with slicing methodology to get the letter of database 
+
+For first letter of database 
+
+```
+select substr(databasae(),1,1);
+```
+![image](https://user-images.githubusercontent.com/60937657/205058675-6dcd5d01-84b5-4da8-86c9-fe2043d0dbc8.png)
+
+6. Using ASCII to text converter 
+
+https://www.duplichecker.com/ascii-to-text.php
+
+```
+select ascii(substr(database(),1,1));
+```
+![image](https://user-images.githubusercontent.com/60937657/205060440-49cf339f-bfc7-496d-8945-5d62c51a4eee.png)
+
+We will figure out the break point of the first lette of database:
+
+![image](https://user-images.githubusercontent.com/60937657/205061534-a9c014e6-4a3f-4570-84f4-b16858da32cd.png)
+
+For second letter of database 
+
+![image](https://user-images.githubusercontent.com/60937657/205062561-123b3700-39e3-4ce5-938c-145323c02374.png)
 
 
 
