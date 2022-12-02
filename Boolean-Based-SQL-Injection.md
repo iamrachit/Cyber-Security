@@ -67,6 +67,22 @@ For second letter of database
 
 ## Getting start with Lab 
 
+**When ever we get an error in website we use union based SQL Injection**
+**When ever the elements of website are getting vanish at that point of time we need to use boolean based SQL Injection**
+
+1. Performing the Boolean based SQL Injection 
+
+Enter the command practice on sql in the above section 
+
+![image](https://user-images.githubusercontent.com/60937657/205223198-c009f54c-f931-4a30-9270-e08a021abca2.png)
+
+By comparing the ascii value we can get the name of database and example is given below: 
+
+![image](https://user-images.githubusercontent.com/60937657/205223789-37bc9757-c6e2-4491-b4b0-f29a86686e2d.png)
+![image](https://user-images.githubusercontent.com/60937657/205223864-c404e2eb-6f7e-4f72-bbba-564f46d79051.png)
+![image](https://user-images.githubusercontent.com/60937657/205223955-f0338d1b-a5aa-4b60-81bc-c40cc19d1f95.png)
+
+So 97 is the ASCII value and do double check it by using = sign in the URL. 
 
 
 
