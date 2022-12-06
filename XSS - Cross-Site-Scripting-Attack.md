@@ -10,6 +10,7 @@
 **2. XSS Payload is embedding of Java Script Code into HTML or PHP which share alert() or pop() widget which redirect to malicious/ fake page.** 
 
 **3. "whatweb" command can be used in terminal to know about the technology used in the website for kali machine**
+
 ![image](https://user-images.githubusercontent.com/60937657/206000998-cc55130e-6bac-431e-8c58-002696f39cb7.png)
 
 
