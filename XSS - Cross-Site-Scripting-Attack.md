@@ -13,6 +13,13 @@
 
 ![image](https://user-images.githubusercontent.com/60937657/206000998-cc55130e-6bac-431e-8c58-002696f39cb7.png)
 
+**4. When ever there is some input parameters like searchbox, login/sign up, subscription or contact form their is chance to find XSS attack (Reflected XSS).**
 
-
+**Their are level of rating of vulnerability:
+$ Critical
+$ High
+$ Medium
+$ Low
+$ Informatiion Discoluser
+where Reflected XSS is a level low or medium vulnerability.**
 
