@@ -22,5 +22,21 @@ This attack can also be called client side XSS
 
 1. Starting with low level of security in DVWA 
 
+![image](https://user-images.githubusercontent.com/60937657/206422280-aaab1ab6-ce2f-4da8-a541-568b34868aaa.png)
 
+While looking at view page source for the page, it is obsertved that in low security level the tags are not closed due to which we can enter code for performing XSS attack. 
+
+![image](https://user-images.githubusercontent.com/60937657/206423194-5785210e-f909-4aae-9343-ac0a879315ae.png)
+
+Understading the php code file by which we can see that there is no validation required. 
+
+![image](https://user-images.githubusercontent.com/60937657/206423846-233fc949-ce16-469d-b0e8-a6f3172ed293.png)
+
+So now we will add js code and try getting a pop up for the code 
+
+```
+<script>alert("hello")</script)
+```
+
+![image](https://user-images.githubusercontent.com/60937657/206425000-aa93c420-abd0-4e54-ac01-4d2cee5c5652.png)
 
