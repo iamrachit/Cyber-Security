@@ -40,3 +40,28 @@ So now we will add js code and try getting a pop up for the code
 
 ![image](https://user-images.githubusercontent.com/60937657/206425000-aa93c420-abd0-4e54-ac01-4d2cee5c5652.png)
 
+2. Starting with the medium level of secuirty in DVWA 
+
+![image](https://user-images.githubusercontent.com/60937657/206425544-2a422d5d-a7b5-469f-bdb0-b3d89b4f85f1.png)
+
+By looking at the source code we can not see any major change as compared to low level of DVWA security level code used in reflect XSS attack. 
+
+![image](https://user-images.githubusercontent.com/60937657/206426113-9af93e86-8d5d-4529-bd2d-cd3401f1e851.png)
+
+![image](https://user-images.githubusercontent.com/60937657/206426263-4200f150-2c36-4178-b544-f36358c37e9a.png)
+
+At php source code we can see there is a filter for script tag.
+
+![image](https://user-images.githubusercontent.com/60937657/206426556-2829e5c3-74b3-4d58-9343-9a8e9e45685d.png)
+
+For example if we add the same code like low level security level then we can not get script tag getting displayed because its been replaced. 
+
+![image](https://user-images.githubusercontent.com/60937657/206427098-3ed1fea4-95f2-4b62-a3ff-6e556c7a6f81.png)
+
+To bypass we need to serach for an another js function to find new approch to perform xss attack. 
+
+```
+<img src="x" onerror = alert("Hacking")>
+```
+
+![image](https://user-images.githubusercontent.com/60937657/206427882-b9232cf1-4adc-4e8a-b7da-806407d2a254.png)
