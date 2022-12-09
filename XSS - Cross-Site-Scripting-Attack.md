@@ -39,7 +39,7 @@ Understading the php code file by which we can see that there is no validation r
 So now we will add js code and try getting a pop up for the code 
 
 ```
-<script>alert("hello")</script)
+<script>alert("hello")</script>
 ```
 
 ![image](https://user-images.githubusercontent.com/60937657/206425000-aa93c420-abd0-4e54-ac01-4d2cee5c5652.png)
