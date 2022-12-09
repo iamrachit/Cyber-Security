@@ -77,3 +77,18 @@ Similarly we can also use another tag
 ```
 
 **In the impossibele level of security everything is filter in code** 
+
+# Stored XSS 
+Its a server side attack 
+
+1. Low level security in DVWA 
+
+![image](https://user-images.githubusercontent.com/60937657/206660893-c950fcb4-385d-4c20-bd4c-eced1fe6f396.png)
+
+We can use the same command
+
+```
+<script>alert("hello")</script>
+```
+
+![image](https://user-images.githubusercontent.com/60937657/206766891-8cbc5746-aeeb-4ad6-8043-28ebc26ab27c.png)
