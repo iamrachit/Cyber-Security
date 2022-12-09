@@ -18,6 +18,10 @@ This attack can also be called client side XSS
 
 **5. Their are level of rating of vulnerability: Critical, High, Medium, Low and Informatiion Discoluser where Reflected XSS is a level low or medium vulnerability.**
 
+**6. We can get information related to session id, cookies or token id to login any other account by using XSS Attack**
+
+**7. XSS cheat sheet - https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html **
+
 ## Performing XSS on DVWA 
 
 1. Starting with low level of security in DVWA 
@@ -72,8 +76,4 @@ Similarly we can also use another tag
 <sCrIpT> alert("Hello") </sCripT>
 ```
 
-3.  Starting with the high level of security in DVWA 
-
-In the high level of security everything is filtered. 
-
-
+**In the impossibele level of security everything is filter in code** 
