@@ -20,7 +20,7 @@ This attack can also be called client side XSS
 
 **6. We can get information related to session id, cookies or token id to login any other account by using XSS Attack**
 
-**7. XSS cheat sheet - https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html **
+**7. XSS cheat sheet - https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html**
 
 ## Performing XSS on DVWA 
 
