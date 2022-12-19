@@ -37,4 +37,6 @@ java -jar webgoat-server-8.2.2.jar
 
 5. Open browser and run ``` http://localhost:8080/ ``` 
 
+Hooray ! WebGoat is running on the system. 
+
 ![image](https://user-images.githubusercontent.com/60937657/208524436-e7c31a3e-c397-4a40-9903-6c3e0dfa858c.png)
