@@ -6,8 +6,7 @@
 
 ## Resourse used to setup WebGoat
 
-- sdfdfsf
-- sdfsadf
-- asdfaf 
+- WebGoat github link - https://github.com/WebGoat/WebGoat
+- Install Java JDK 17 :- https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html 
 
 ## Steps to setup WebGoat 
