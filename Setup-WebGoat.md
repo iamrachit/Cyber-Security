@@ -2,7 +2,7 @@
 
 # WebGoat 
 
-![image](https://user-images.githubusercontent.com/60937657/208524436-e7c31a3e-c397-4a40-9903-6c3e0dfa858c.png)
+![image](https://user-images.githubusercontent.com/60937657/208536688-c44a1650-142d-4530-a881-956623a45537.png)
 
 ## Resourse used to setup WebGoat
 
@@ -36,3 +36,5 @@ java -jar webgoat-server-8.2.2.jar
 ![image](https://user-images.githubusercontent.com/60937657/208534329-c2e6476d-b2c2-4991-9039-7635d529f88e.png)
 
 5. Open browser and run ``` http://localhost:8080/ ``` 
+
+![image](https://user-images.githubusercontent.com/60937657/208524436-e7c31a3e-c397-4a40-9903-6c3e0dfa858c.png)
