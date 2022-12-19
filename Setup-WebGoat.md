@@ -10,3 +10,20 @@
 - Install Java JDK 17 :- https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html 
 
 ## Steps to setup WebGoat 
+
+1. Install webgoat-server-8.2.2.jar and webwolf-8.2.2.jar from this link https://github.com/WebGoat/WebGoat/releases
+
+![image](https://user-images.githubusercontent.com/60937657/208531683-a67c1219-28d8-4aaa-b5b4-0e384214ad12.png)
+
+2. To setup WebGoat we need to setup java and to do that we need to intall java JDK 17 from the link given in resourse section. 
+
+3. Transfer all the 3 files in the folder and name that folder as webgoat-prerequisites and then run jdk file 
+
+![image](https://user-images.githubusercontent.com/60937657/208532192-c273343c-307e-4f1d-ad07-72ae9ca25c94.png)
+
+4. After setup java on the local machine open terminal and penetrate to webgoat-prerequisites 
+
+To penetrate; use ``` cd ''' command 
+
+![image](https://user-images.githubusercontent.com/60937657/208532682-48eeced7-2cd2-4e8f-9256-5be1a319bdf6.png)
+
