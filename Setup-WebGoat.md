@@ -23,7 +23,14 @@
 
 4. After setup java on the local machine open terminal and penetrate to webgoat-prerequisites 
 
-To penetrate; use ``` cd ''' command 
+To penetrate; use " cd + file location " 
 
 ![image](https://user-images.githubusercontent.com/60937657/208532682-48eeced7-2cd2-4e8f-9256-5be1a319bdf6.png)
 
+After penetrating to webgoat-prerequisites file run the below given command to setup the webgoat 
+
+```
+java -jar webgoat-server-8.2.2.jar
+```
+
+![image](https://user-images.githubusercontent.com/60937657/208534329-c2e6476d-b2c2-4991-9039-7635d529f88e.png)
