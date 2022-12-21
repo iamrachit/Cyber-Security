@@ -27,7 +27,7 @@ To penetrate; use " cd + file location "
 
 ![image](https://user-images.githubusercontent.com/60937657/208532682-48eeced7-2cd2-4e8f-9256-5be1a319bdf6.png)
 
-After penetrating to webgoat-prerequisites file run the below given command to setup the webgoat 
+After penetrating to webgoat-prerequisites file run the below given command to setup the webgoat. 
 
 ```
 java -jar webgoat-server-8.2.2.jar
