@@ -17,7 +17,7 @@
 
 2. To setup WebGoat we need to setup java and to do that we need to intall java JDK 17 from the link given in resourse section. 
 
-3. Transfer all the 3 files in the folder and name that folder as webgoat-prerequisites and then run jdk file 
+3. Transfer all the 3 files in the folder and name that folder as webgoat-prerequisites and then run jdk file. 
 
 ![image](https://user-images.githubusercontent.com/60937657/208532192-c273343c-307e-4f1d-ad07-72ae9ca25c94.png)
 
