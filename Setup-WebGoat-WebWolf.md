@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/60937657/208461254-017f2bf1-ca45-44ea-ae43-28716fa355de.png)
 
-# WebGoat 
+# Setup WebGoat 
 
 ![image](https://user-images.githubusercontent.com/60937657/208536688-c44a1650-142d-4530-a881-956623a45537.png)
 
@@ -40,3 +40,4 @@ java -jar webgoat-server-8.2.2.jar
 Hooray ! WebGoat is running on the system. 
 
 ![image](https://user-images.githubusercontent.com/60937657/208524436-e7c31a3e-c397-4a40-9903-6c3e0dfa858c.png)
+
