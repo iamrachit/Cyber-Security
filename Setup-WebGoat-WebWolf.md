@@ -57,4 +57,6 @@ To penetrate; use " cd + file location "
 
 2. After penetrating to the file location, use the below given command to setup WebWolf on local machine. 
 
-```java -Dfile.encoding=UTF-8 -Dwebwolf.port=9090 -jar webwolf-8.2.2.jar```
+```
+java -Dfile.encoding=UTF-8 -Dwebwolf.port=9090 -jar webwolf-8.2.2.jar
+```
