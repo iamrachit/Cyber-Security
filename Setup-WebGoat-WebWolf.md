@@ -60,3 +60,10 @@ To penetrate; use " cd + file location "
 ```
 java -Dfile.encoding=UTF-8 -Dwebwolf.port=9090 -jar webwolf-8.2.2.jar
 ```
+
+![image](https://user-images.githubusercontent.com/60937657/209433811-c7e68b99-032c-4dbd-b3fc-eb56bf966b39.png)
+
+3. Open browser and run ``` http://localhost:9090/webwolf ``` 
+
+Hooray ! WebWolf is running on the system. 
+
