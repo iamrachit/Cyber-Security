@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/60937657/208461254-017f2bf1-ca45-44ea-ae43-28716fa355de.png)
+![image](https://user-images.githubusercontent.com/60937657/208461254-017f2bf1-ca45-44ea-ae43-28716fa355de.png) ![image](https://user-images.githubusercontent.com/60937657/209433880-527bcb3f-a3e7-4e6f-9038-e5259a0d9370.png)
+
 
 # Setup WebGoat 
 
@@ -66,4 +67,6 @@ java -Dfile.encoding=UTF-8 -Dwebwolf.port=9090 -jar webwolf-8.2.2.jar
 3. Open browser and run ``` http://localhost:9090/webwolf ``` 
 
 Hooray ! WebWolf is running on the system. 
+
+![image](https://user-images.githubusercontent.com/60937657/209433868-8bd98fae-3998-4449-a3bf-23ffd86a9717.png)
 
