@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/60937657/208536688-c44a1650-142d-4530-a881-956623a45537.png)
 
-## Resourse used to setup WebGoat
+## Resourse used to setup WebGoat and WebWolf
 
 - WebGoat github link - https://github.com/WebGoat/WebGoat
 - Install Java JDK 17 :- https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html 
@@ -41,3 +41,20 @@ Hooray ! WebGoat is running on the system.
 
 ![image](https://user-images.githubusercontent.com/60937657/208524436-e7c31a3e-c397-4a40-9903-6c3e0dfa858c.png)
 
+# Setup WebWolf 
+
+![image](https://user-images.githubusercontent.com/60937657/209433363-1bdeeb47-d0e0-423f-9137-a6c512319f29.png)
+
+# Steps to setup WebWolf 
+
+1. After setup WebGoat on the local machine we can directly open the new terminal and penetrate to the file location where we have got the 3 files. 
+
+![image](https://user-images.githubusercontent.com/60937657/209433521-85c8da1a-43f2-4ad9-abfa-31d9bef68a45.png)
+
+To penetrate; use " cd + file location "
+
+![image](https://user-images.githubusercontent.com/60937657/209433543-119bee09-7f0e-4fab-befb-b750febfc88a.png)
+
+2. After penetrating to the file location, use the below given command to setup WebWolf on local machine. 
+
+```java -Dfile.encoding=UTF-8 -Dwebwolf.port=9090 -jar webwolf-8.2.2.jar```
