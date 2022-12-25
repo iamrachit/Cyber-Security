@@ -70,3 +70,5 @@ Hooray ! WebWolf is running on the system.
 
 ![image](https://user-images.githubusercontent.com/60937657/209433868-8bd98fae-3998-4449-a3bf-23ffd86a9717.png)
 
+**Point To Note**
+While running the WebGoat and WebWolf on the browser we should take care of the port number we are entering in the URL. For WebGoat we use port number 8080 and for WebWolf we use port number 9090. 
