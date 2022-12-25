@@ -14,6 +14,6 @@ The prime purpose of performing an XSS attack is to steal another person’s ide
 
 This attack is divided into three main categories as shown below:
 
-1) Reflected XSS – This attack occurs, when a malicious script is not being saved on the webserver but reflected in the website’s results.
-2) Stored XSS – This attack occurs when a malicious script is being saved on the webserver permanently.
-3) DOM – This occurs, when the DOM environment is being changed, but the code remains the same.
+#1) Reflected XSS – This attack occurs, when a malicious script is not being saved on the webserver but reflected in the website’s results.
+#2) Stored XSS – This attack occurs when a malicious script is being saved on the webserver permanently.
+#3) DOM – This occurs, when the DOM environment is being changed, but the code remains the same.
