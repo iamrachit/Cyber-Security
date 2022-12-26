@@ -20,11 +20,13 @@ This attack is divided into three main categories as shown below:
 
 ### Level 1 
 
+![image](https://user-images.githubusercontent.com/60937657/209504143-554f58db-6d74-474b-b20f-9f6d1fd4fb8b.png)
+
 ```
 <script>alert()</script>
 ```
 
-![image](https://user-images.githubusercontent.com/60937657/209503133-c6fb5c5d-e0de-4d61-ad60-7cb183f42e69.png)
+![image](https://user-images.githubusercontent.com/60937657/209503948-bd3663c3-59d9-4516-a762-96af44f6294d.png)
 
 ### Level 2 
 
