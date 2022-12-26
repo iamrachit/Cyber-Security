@@ -61,5 +61,15 @@ timer=');alert('xss
 
 ### Level 5 
 
+![image](https://user-images.githubusercontent.com/60937657/209523525-15f14c6c-d4e3-4853-8089-57d5614cba2d.png)
 
+Command to be inserted in browser URL section;
+```
+https://xss-game.appspot.com/level5/frame/signup?next=javascript:alert(1)
+```
+Command to be inserted in email section;
+```
+signup?next=javascript:alert(1)
+```
 
+![image](https://user-images.githubusercontent.com/60937657/209523829-c4040efd-b95f-487d-a5de-41f4bac8f2fd.png)
