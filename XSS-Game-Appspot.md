@@ -17,3 +17,11 @@ This attack is divided into three main categories as shown below:
 1) Reflected XSS – This attack occurs, when a malicious script is not being saved on the webserver but reflected in the website’s results.
 2) Stored XSS – This attack occurs when a malicious script is being saved on the webserver permanently.
 3) DOM – This occurs, when the DOM environment is being changed, but the code remains the same.
+
+### Level 1 
+
+```
+<script>alert()</script>
+```
+
+![image](https://user-images.githubusercontent.com/60937657/209503133-c6fb5c5d-e0de-4d61-ad60-7cb183f42e69.png)
