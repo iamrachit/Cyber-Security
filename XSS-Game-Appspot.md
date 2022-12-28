@@ -100,4 +100,4 @@ https://xss-game.appspot.com/level6/frame#data:text/plain,alert('xss')
 
 ![image](https://user-images.githubusercontent.com/60937657/209524778-7a732523-738f-4b49-9e77-68adc0fbad9d.png)
 
-**To Learn More Click On This Link(Trust me its secure !!!! -_-)** - https://bughunters.google.com/learn
+**To Learn More Click On This Link(Trust me its secure !!!! -_-)**  https://bughunters.google.com/learn
