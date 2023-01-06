@@ -3,7 +3,7 @@
 This repository is a collection of cyber security concepts with easy to understand code and images including step-by-step execution and methodology used for exploring cyber vulnerability.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/DwlFRgKo87zDW/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/DwlFRgKo87zDW/giphy.gif" width="500"/>
 </div>
 
 ## Resources that can help in learning and executing cyber security techniques
