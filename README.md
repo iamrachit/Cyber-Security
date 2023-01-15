@@ -46,6 +46,8 @@ ChatGPT - https://chat.openai.com/chat
 
 Acunetix - http://testphp.vulnweb.com/ 
 
+SecurityIdiots - https://securityidiots.com/
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/7ALOsHTCDT5fi/giphy.gif" width="300"/>
 </div>
