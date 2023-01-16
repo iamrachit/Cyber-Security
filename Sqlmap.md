@@ -20,3 +20,6 @@ It is important to note that the website is intentionally vulnerable and should 
 
 **2. Kali Terminal where SQLMap comes preinstalled.**
 
+![image](https://user-images.githubusercontent.com/60937657/212591439-00ed2f52-c540-4d0b-8b67-25cfba8f2ba7.png)
+
+
