@@ -8,7 +8,7 @@ SQLMap is a tool that is used to test and exploit SQL injection vulnerabilities 
 
 **Resourse used while performing SQL Injection:**
 
-**1. Acunetix - testphp.vulnweb.com/artists.php?artist=1**
+**1. Acunetix - http://testphp.vulnweb.com/artists.php?artist=1**
 
 The website http://testphp.vulnweb.com is a resource that is intended to be used for educational and research purposes. It is a deliberately vulnerable web application that allows security professionals, developers and students to practice identifying and exploiting common web application vulnerabilities, such as SQL injection, cross-site scripting (XSS), and file inclusion vulnerabilities.
 
