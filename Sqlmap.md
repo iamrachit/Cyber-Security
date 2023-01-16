@@ -4,9 +4,7 @@
 
 SQLMap is a tool that is used to test and exploit SQL injection vulnerabilities in web applications. It is an open-source tool, which means that it is freely available for anyone to use. The tool automates the process of detecting and exploiting SQL injection vulnerabilities, making it a valuable tool for penetration testers and security researchers.  SQLMap can be used to test web applications for vulnerabilities, as well as to extract data from the databases of vulnerable websites. It supports a wide range of database management systems, including MySQL, Oracle, and Microsoft SQL Server. Even more than that, SQLMap can also be used to take over database servers, giving an attacker complete control over a vulnerable system.  The tool is a command line based which makes it easy to use and it is written in python. It's a powerful tool that can help you identify and exploit SQL injection vulnerabilities in your web applications. It is a must-have tool for any security professional working with web applications.
 
-## Steps to performing SQL Injection using SQLMap 
-
-**Resourse used while performing SQL Injection:**
+## Resourse used while performing SQL Injection
 
 **1. Acunetix - http://testphp.vulnweb.com/artists.php?artist=1**
 
@@ -22,4 +20,4 @@ It is important to note that the website is intentionally vulnerable and should 
 
 ![image](https://user-images.githubusercontent.com/60937657/212591439-00ed2f52-c540-4d0b-8b67-25cfba8f2ba7.png)
 
-
+## Command used to perform 
