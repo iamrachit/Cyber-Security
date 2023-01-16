@@ -39,3 +39,5 @@ sqlmap --url "http://testphp.vulnweb.com/artists.php?artist=1" --dump
 ```
 
 ![image](https://user-images.githubusercontent.com/60937657/212592775-4f3a6327-f128-491d-91e4-4dbd151d88fb.png)
+
+Thats how we perform SQL Injection using SQLMap. 
