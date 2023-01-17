@@ -51,7 +51,3 @@ SecurityIdiots - https://securityidiots.com/
 Intigriti - https://www.intigriti.com/
 
 YesWeHack - https://www.yeswehack.com/
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/7ALOsHTCDT5fi/giphy.gif" width="300"/>
-</div>
