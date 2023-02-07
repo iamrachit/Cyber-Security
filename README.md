@@ -51,3 +51,5 @@ SecurityIdiots - https://securityidiots.com/
 Intigriti - https://www.intigriti.com/
 
 YesWeHack - https://www.yeswehack.com/
+
+Hacking Articles (Raj Chandel's Blog) - https://explainshell.com/
