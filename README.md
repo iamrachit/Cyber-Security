@@ -53,3 +53,7 @@ Intigriti - https://www.intigriti.com/
 YesWeHack - https://www.yeswehack.com/
 
 Hacking Articles (Raj Chandel's Blog) - https://explainshell.com/
+
+PortSwigger (Cross Site Scripting (XSS) Cheat Sheet) - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+
+
