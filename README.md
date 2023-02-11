@@ -58,4 +58,4 @@ Hacking Articles (Raj Chandel's Blog) - https://explainshell.com/
 
 PortSwigger (Cross Site Scripting (XSS) Cheat Sheet) - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 
-
+JSON Web Tokens - https://jwt.io/
